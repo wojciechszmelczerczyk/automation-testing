@@ -1,0 +1,6 @@
+[submodule "login-page-ui-tests"]
+	path = login-page-ui-tests
+	url = https://github.com/wojciechszmelczerczyk/login-page-ui-tests
+[submodule "js-longest-substring-tests"]
+	path = js-longest-substring-tests
+	url = https://github.com/wojciechszmelczerczyk/js-longest-substring-tests.git
